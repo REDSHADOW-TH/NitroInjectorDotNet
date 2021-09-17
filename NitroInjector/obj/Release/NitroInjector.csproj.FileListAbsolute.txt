@@ -1,0 +1,6 @@
+C:\Users\nilph\source\repos\NitroInjector\NitroInjector\bin\Release\NitroInjector.dll
+C:\Users\nilph\source\repos\NitroInjector\NitroInjector\bin\Release\NitroInjector.pdb
+C:\Users\nilph\source\repos\NitroInjector\NitroInjector\obj\Release\NitroInjector.csproj.AssemblyReference.cache
+C:\Users\nilph\source\repos\NitroInjector\NitroInjector\obj\Release\NitroInjector.csproj.CoreCompileInputs.cache
+C:\Users\nilph\source\repos\NitroInjector\NitroInjector\obj\Release\NitroInjector.dll
+C:\Users\nilph\source\repos\NitroInjector\NitroInjector\obj\Release\NitroInjector.pdb
